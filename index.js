@@ -19,7 +19,7 @@ module.exports = {
 		// by default secret hashing key is 'password'
 		// though you can pass your own
 
-		if (typeof(input)==='undefined') return ("give the input string");
+		if (typeof(input)==='undefined') return null;
 		if (typeof(secret)==='undefined') secret = "password";
 		
 		const hash = crypto.createHmac('sha256', secret)

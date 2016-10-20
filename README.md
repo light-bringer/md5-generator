@@ -1,4 +1,4 @@
-# md5-generator
+# hash-generator
 =============
 
 * import the package and use md5 generator as 

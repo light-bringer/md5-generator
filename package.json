@@ -1,19 +1,18 @@
 {
-  "name": "md5-generator",
+  "name": "hash-generator",
   "version": "1.0.0",
-  "description": "md5-generator",
+  "description": "hash-generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/incture/md5-generator.git"
+    "url": "https://github.com/incture/one-app-freshers.git"
   },
-  "author": "",
+  "author": ["HackSparrow", "light-bringer"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/incture/md5-generator/issues"
-  },
-  "homepage": "https://github.com/incture/md5-generator"
+    "url": "https://github.com/incture/one-app-freshers/issues"
+  }
 }
